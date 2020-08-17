@@ -1,3 +1,9 @@
+# cas-client-boot-demo使用
+
+源代码地址  https://github.com/xiazhenyou/cas-client-boot-demo
+
+感谢 xiazhenyou 提供Demo。
+
 # cas-client-boot-demo
 基于spring boot配置cas客户端
 demo分别写了三个请求:拦截请求 test1/index,test1/index1 以及不拦截请求test1/index2,
